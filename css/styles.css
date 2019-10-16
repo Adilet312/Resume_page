@@ -1,0 +1,19 @@
+.education {
+  font-family: monospace;
+  font-size: 20px
+}
+.cursive {
+  font-style: italic;
+}
+.firm
+{
+  font-weight: bold;
+}
+.work {
+  font-style:"Times New Roman";
+  font-size: 20px;
+}
+.skills {
+  font-family: "Gill Sans Extrabold", sans-serif;
+  font-size: 20px;
+}
